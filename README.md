@@ -30,5 +30,4 @@
 
 
 ![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondp07&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondp07&layout=compact)](https://github.com/emersondp07/github-readme-stats)
