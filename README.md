@@ -40,8 +40,12 @@
 
 ## 💼 Experience
 
+- 👨‍💻 **Backend Developer - Pleno**\
+  📆 06/2024 - Moment\
+  📍 **Blue** - Sao Paulo/SP, Brazil
+
 - 👨‍💻 **Fullstack Developer**\
-  📆 03/2023 - Moment\
+  📆 03/2023 - 06/2024
   📍 **Anjun Express** - Sao Paulo/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
